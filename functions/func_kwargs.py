@@ -7,7 +7,7 @@ def keywords_method(**kwargs):
     return num
 
 result=keywords_method(a=1,b=3,c=5)
-print(result)
+# print(result)
 
 def name_hello(**kwargs):
     print(type(kwargs))

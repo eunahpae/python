@@ -13,7 +13,7 @@ def add(*args):
     return num
 
 result=add(1,5,6,7,8,100)
-print(result)
+# print(result)
 
 # def input_sum(*args):
 #     args = input("원하는 숫자를 , 기준으로 적어주세요.")
