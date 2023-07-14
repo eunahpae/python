@@ -21,4 +21,4 @@ person = Person()
 family.lname()
 person.fname()
 
-print(person.lastname)
+# print(person.lastname) error 발생
